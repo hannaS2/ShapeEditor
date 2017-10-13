@@ -1,0 +1,1 @@
+class Rect/144/284/class Circle/306/139/class Triangle/231/222/class Circle/154/139/class Rect/169/305/class Rect/186/322/class Rect/212/332/class Rect/238/332/class Rect/264/333/class Rect/291/316/class Rect/314/294/class Rect/333/271/
